@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>panel.qml</file>
+        <file>ToggleItem.qml</file>
+        <file>window.qml</file>
+        <file>fallback.json</file>
+        <file>WindowSelector.qml</file>
+        <file>AppItem.qml</file>
+        <file>WindowSelectorItem.qml</file>
+        <file>LauncherMobile.qml</file>
+        <file>LauncherItem.qml</file>
+        <file>LauncherDesktop.qml</file>
+        <file>LauncherItemHorizontal.qml</file>
+    </qresource>
+</RCC>
